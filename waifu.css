@@ -69,8 +69,17 @@
 #live2d {
 	cursor: grab;
 	height: 300px;
-	position: relative;
-	width: 300px;
+	position: fixed;
+ bottom: 0;
+ right: 0;
+ width: 300px;
+ z-index: 9999;
+}
+@media (max-width: 768px) {
+    #live2d {
+        width: 200px;
+        height: auto;
+    }
 }
 
 #live2d:active {
