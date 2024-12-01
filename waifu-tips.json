@@ -1,10 +1,10 @@
 {
 	"mouseover": [{
 		"selector": "#live2d",
-		"text": ["Apa yang kamu lakukan? Cepat jauhkan tanganmu～", "Tikus... tikus (mouse)-nya salah tempat!", "Kamu mau apa sih?", "Meong meong?", "Takut banget (ノ≧∇≦)ノ", "Tolong! Pelecehan!", "Kalau begini, aku harus gunakan kekuatan!", "Aku akan marah nih～", "Jangan sentuh-sentuh aku!", "Kamu... benar-benar tidak tahu malu!", "Hentai!"]
+		"text": ["Apa yang kamu lakukan? Cepat jauhkan tanganmu～", "Kursor... kursor (mouse)-nya salah tempat!", "Kamu mau apa sih?", "Meong meong?", "Takut banget (ノ≧∇≦)ノ", "Tolong! Pelecehan!", "Kalau begini, aku harus gunakan kekuatan!", "Aku akan marah nih～", "Jangan sentuh-sentuh aku!", "Kamu... benar-benar tidak tahu malu!", "Hentai!"]
 	}, {
 		"selector": "#waifu-tool-asteroids",
-		"text": ["Mau main perang pesawat?", "Tombol ini tertulis 'Jangan Klik'.", "Mau bermain game denganku?", "Kudengar ini bisa bikin pesta dansa!"]
+		"text": ["Mau main perang pesawat?", "Tombol ini tertulis 'Jangan di Klik'.", "Mau bermain game denganku?", "Kudengar ini bisa bikin pesta dansa!"]
 	}, {
 		"selector": "#waifu-tool-switch-model",
 		"text": ["Apakah kamu tidak menyukaiku lagi? Hiks～", "Mau bertemu kakakku?", "Ingin lihat adikku?", "Ingin mengganti karakter waifu?"]
@@ -32,7 +32,7 @@
 	}],
 	"click": [{
 		"selector": "#live2d",
-		"text": ["Eh... tidak sengaja tersentuh ya...", "Apa itu lolicon?", "Kamu lihat boneka beruanku?", "Kalau terus menyentuhku, aku akan lapor polisi!⌇●﹏●⌇", "Halo, 110? Ada seseorang yang terus menyentuhku (ó﹏ò｡)", "Jangan sentuh aku lagi, nanti aku laporkan ke istrimu!", "Kenapa menyentuhku! Awas aku gigit!", "Jangan menyentuhku, apa sih menariknya!"]
+		"text": ["Eh... tidak sengaja tersentuh ya...", "Kau lolicon!!", "Kamu lihat boneka beruangku?", "Kalau terus menyentuhku, aku akan lapor polisi!⌇●﹏●⌇", "Halo, 110? Ada seseorang yang terus menyentuhku (ó﹏ò｡)", "Jangan sentuh aku lagi, nanti aku laporkan ke istrimu!", "Kenapa menyentuhku! Nanti aku gigit!", "Jangan menyentuhku, apa sih menariknya!"]
 	}],
 	"seasons": [{
 		"date": "01/01",
@@ -40,13 +40,18 @@
 	}, {
 		"date": "02/14",
 		"text": "Hari ini adalah <span>Hari Valentine</span>. Apakah kamu sudah punya pasangan di tahun {year}～"
-	}, {
+	},
+	 {
 		"date": "03/08",
 		"text": "Hari ini adalah <span>Hari Perempuan Internasional</span>!"
 	}, {
 		"date": "03/12",
 		"text": "Hari ini adalah <span>Hari Menanam Pohon</span>. Jangan lupa untuk menjaga lingkungan!"
-	}, {
+	},{
+		"date": "03/22",
+		"text": "Hari ini adalah <span>Ulang tahun tuan kami</span>. Kalian semua diundang loh di acara tuan kami ^v^ {year}～"
+	}, 
+	{
 		"date": "04/01",
 		"text": "Mau tahu rahasia? <span>Hari ini adalah April Mop, jangan sampai tertipu ya～</span>"
 	}, {
@@ -100,7 +105,7 @@
 		"default": ["Lama tidak bertemu, waktu berlalu begitu cepat...", "Dasar nakal! Sudah berapa lama tidak menyapa aku, huh～", "Hai～ajak aku bermain yuk!", "Aku pukul dadamu pakai kepalan kecilku!", "Jangan lupa tambahkan halaman ini ke favorit ya!"],
 		"console": "Haha, kamu membuka konsol, mau lihat rahasiaku ya?",
 		"copy": "Apa yang kamu salin, ya? Jangan lupa tambahkan sumber jika ingin menyalin～",
-		"visibilitychange": "Ah, akhirnya kamu kembali～"
+		"visibilitychange": "Ah, sayang <3 akhirnya kamu kembali～"
 	}
 }
 
